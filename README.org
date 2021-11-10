@@ -1,0 +1,6 @@
+#+TITLE: Guile 3 for Nix
+
+Simple Nix flake for building and installing Guile 3.
+
+I noticed that Nixpkgs has an outdated version of Guile and so I wrote a flake
+to build and install Guile 3.
